@@ -1,4 +1,4 @@
 // Use forEach to console.log contents.
-arr.forEach(function (item2) {
-  console.log(item2);
+arr.forEach(function (item3) {
+  console.log(item3);
 });
