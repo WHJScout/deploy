@@ -1,2 +1,4 @@
 *.log
 note.txt
+git
+.DS_Store
