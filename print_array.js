@@ -1,4 +1,5 @@
+<<<<<<< HEAD
 // Use a for loop to console.log contents.
-for (var i = 0; i < arr.length; i++) {
-  console.log(arr[i]);
+for(var i=0; i<arr.length; i++) {
+    console.log(arr[i]);
 }
